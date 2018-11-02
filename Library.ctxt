@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Library
+comment1.params=totalIn
+comment1.target=Library(int)
+comment2.params=
+comment2.target=int\ getTotal()
+comment3.params=
+comment3.target=boolean\ isFull()
+comment4.params=
+comment4.target=boolean\ isEmpty()
+comment5.params=bookIn
+comment5.target=boolean\ add(Book)
+comment6.params=
+comment6.target=java.lang.String\ list()
+comment7.params=ISBNIn
+comment7.target=int\ search(java.lang.String)
+comment8.params=ISBNIn
+comment8.target=Book\ getItem(java.lang.String)
+comment9.params=ISBNIn
+comment9.target=boolean\ remove(java.lang.String)
+numComments=10
